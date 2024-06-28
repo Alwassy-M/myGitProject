@@ -1,5 +1,5 @@
 # My Git Project
-> My code for the git project
+> My scary merge conflict code
 ## I'm in the feature branch
 > made changes for git pull demo
 > made more changes for git pull demo
