@@ -4,5 +4,6 @@ print('hi there!')
 def hi():
     print('hi')
 
+
 def hi():
-    print('my local change')
+    print('Updated python file with merge conflict code')
