@@ -2,4 +2,4 @@ print('hi there!')
 
 
 def hi():
-    print('hi')
+    print('Updated python file with merge conflict code')
